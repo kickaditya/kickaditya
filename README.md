@@ -21,7 +21,7 @@
 
 Hi there, I'm **Aditya**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering Student** 🚀 from India.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@Aditya](https://github.com/kickaditya), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/adityaanandz), and an Artificial Intelligence Intern 👨🏽‍💼. 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47doxtzkqgk8ijyrw8gv9omdbtf68csm7e2ci375n5&rid=giphy.gif&ct=g" />
 
 **Talking about Personal Stuffs:**
 
