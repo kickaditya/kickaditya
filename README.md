@@ -30,7 +30,7 @@ Hi there, I'm **Aditya**, a **Kaggle Competitions Expert** ( Ranked Top 1% World
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, Data Science, AI, DSA, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via adityaanandx@gmail.com to reach me.
+- 📫 Please email via adityakumar10050@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae] to get more info.
 
 
