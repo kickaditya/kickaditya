@@ -49,6 +49,6 @@ Hi there, I'm **Aditya**, a **Kaggle Competitions Expert** ( Ranked Top 1% World
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=kickaditya&show_icons=true&hide_border=true)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=kickaditya&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kickaditya&layout=compact)](https://github.com/kickaditya/github-readme-stats)
 
 ⭐️ From [kickaditya](https://github.com/kickaditya)
